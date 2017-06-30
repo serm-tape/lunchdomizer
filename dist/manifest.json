@@ -1,0 +1,15 @@
+{
+  "name": "Lunchdomizer",
+  "short_name": "Lunch",
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "potrait",
+  "background_color": "#324A5E",
+  "theme_color": "#212733",
+  "description": "Gin nhai d?",
+  "icons": [{
+    "src": "image/cutlery.png",
+    "sizes": "256x256",
+    "type": "image/png"
+  }]
+}
